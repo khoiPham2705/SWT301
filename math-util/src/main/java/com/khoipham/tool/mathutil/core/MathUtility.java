@@ -11,7 +11,7 @@ public class MathUtility {
     // 20! VỪA ĐỦ KIỂU LONG, TỨC LÀ 21! VƯỢT KIỂU LONG
     public static long getFactorial(int n){
         if(n < 0 || n > 20){
-            throw new IllegalStateException("n must be between 0 and 20");
+            throw new IllegalArgumentException("n must be between 0 and 20");
             // bạn đưa invalid data, tớ ném ra ngoại lệ, hàm không được chạy thành công, không value trả về
         }
 
