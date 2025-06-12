@@ -11,10 +11,10 @@
 ###Scrrenshots
 
 ### TDD, DDT test script with Junit
-[https://github.com/khoiPham2705/SWT301/blob/main/mathutil/screenshots/Screenshot%202025-06-12%20153742.png]
+![TDD DDT test script](https://github.com/khoiPham2705/SWT301/blob/main/mathutil/screenshots/Screenshot%202025-06-12%20153742.png?raw=true)
 
 ### Build app with Maven
-[https://github.com/khoiPham2705/SWT301/blob/main/mathutil/screenshots/Screenshot%202025-06-12%20154006.png]
+![Maven Builder](https://github.com/khoiPham2705/SWT301/blob/main/mathutil/screenshots/Screenshot%202025-06-12%20154006.png?raw=true)
 
 ### Connect me via: khoipham27052005@gmail.com
 
