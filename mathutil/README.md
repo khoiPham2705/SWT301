@@ -1,4 +1,8 @@
+[![Math Utility Project (CI included) | © 2025 by KhoiPham](https://github.com/khoiPham2705/SWT301/actions/workflows/ci-script.yml/badge.svg)](https://github.com/khoiPham2705/SWT301/actions/workflows/ci-script.yml)
+
 # Welcome to Math Utility Repository
+
+
 
 ## You will find in this repo the following stuff:
 
@@ -15,6 +19,8 @@
 
 ### Build app with Maven
 ![Maven Builder](https://github.com/khoiPham2705/SWT301/blob/main/mathutil/screenshots/Screenshot%202025-06-12%20154006.png?raw=true)
+
+
 
 ### Connect me via: khoipham27052005@gmail.com
 
